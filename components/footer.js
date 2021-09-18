@@ -21,7 +21,7 @@ class Footer extends HTMLElement {
         </div>
         <div class="col-lg-3 col-md-12">
           <h3 class="footer-head">Blogs</h3>
-          <a target="_blank" class="terms" href="/Proteus_blog/Anekdota/Anekdota_Human Soul/blog.html">Weight of The Human Soul</a><br>
+          <a target="_blank" class="terms" href="/Proteus/Proteus_blog/Anekdota/Anekdota_Human Soul/blog.html">Weight of The Human Soul</a><br>
           <a target="_blank" class="terms" href="/Proteus_blog/Anthropoid/Anthropoid_Personality/blog.html">Do Animals Have Personalities</a><br>
           <a target="_blank" class="terms" href="/Proteus_blog/Erevna/Erevna_Mammoth/blog12.html">Gene Time Bomb Hurt Mammoths</a><br>
           <a target="_blank" class="terms" href="/archives/archives.html">Archives</a><br>
